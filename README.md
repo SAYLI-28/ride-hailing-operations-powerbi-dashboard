@@ -2,7 +2,7 @@
 
 An end-to-end **Power BI analytics solution** built on **103,700+ NYC Uber trip records ($1.6M booking value)** — uncovering booking trends, revenue drivers, location demand, and operational inefficiencies to support data-driven business decisions.
 
-🛠️ **Tools:** Power BI Desktop · Advanced DAX · Power Query · Excel  
+🛠️ **Tools:** Power BI Desktop · Advanced DAX · Power Query · Excel . 
 📁 **Scope:** 103,700+ NYC Ride-Hailing Trip Records | June 2024
 
 
