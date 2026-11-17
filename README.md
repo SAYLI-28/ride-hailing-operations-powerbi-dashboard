@@ -4,8 +4,7 @@
 
 📌 **Built for:** Data Analyst Portfolio | Remote Jobs | Business Intelligence Roles  
 🛠️ **Tools:** Power BI Desktop · Advanced DAX · Power Query · Excel  
-📁 **Dataset:** Kaggle — Uber Trip Data | Date Range: June 2024
-
+📁 **Scope:** 103,700+ NYC Ride-Hailing Trip Records | June 2024
 ---
 
 ## 🎯 Business Problem
