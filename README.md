@@ -1,11 +1,10 @@
-# 🚗 Uber Trip Performance & Booking Analytics Dashboard
+# 🚗 Ride-Hailing Operations & Booking Analytics Dashboard (Uber NYC Data)
 
-> An end-to-end **Power BI analytics solution** built on **103,700+ Uber trip records** — uncovering booking trends, revenue drivers, location demand, and operational inefficiencies to support data-driven business decisions.
+An end-to-end **Power BI analytics solution** built on **103,700+ NYC Uber trip records ($1.6M booking value)** — uncovering booking trends, revenue drivers, location demand, and operational inefficiencies to support data-driven business decisions.
 
-📌 **Built for:** Data Analyst Portfolio | Remote Jobs | Business Intelligence Roles  
 🛠️ **Tools:** Power BI Desktop · Advanced DAX · Power Query · Excel  
 📁 **Scope:** 103,700+ NYC Ride-Hailing Trip Records | June 2024
----
+
 
 ## 🎯 Business Problem
 
@@ -137,8 +136,6 @@ Dynamic Measures    →  Disconnected slicer table for KPI switching
 4. **Penn Station is the #1 pickup zone** — concentrating driver availability here during peak hours directly increases booking capture rate
 5. **144.1 mile farthest trip signals long-haul demand** — a dedicated long-distance pricing tier could unlock additional revenue segment
 
----
-
 ## 🛠️ Tech Stack
 
 | Tool | Usage |
@@ -147,7 +144,6 @@ Dynamic Measures    →  Disconnected slicer table for KPI switching
 | Power Query (M) | Data cleaning & transformation |
 | DAX | 13+ measures — dynamic, TOPN, USERELATIONSHIP, AVERAGEX |
 | Excel / CSV | Raw data source |
-| Kaggle | Dataset source |
 
 ---
 
@@ -164,11 +160,11 @@ Dynamic Measures    →  Disconnected slicer table for KPI switching
 
 ## 👩‍💻 About
 
-Built by **Sayli Markandey** — Junior Data Analyst  
+Built by **Sayli Markandey** — Data Analyst & Power BI Developer  
 📧 saylimarkandey@gmail.com  
 🐙 [github.com/SAYLI-28](https://github.com/SAYLI-28)
 
-*Open to remote Data Analyst opportunities globally.*
+*Open to Data Analyst, Power BI Developer & Business Intelligence roles.*
 
 ---
 
